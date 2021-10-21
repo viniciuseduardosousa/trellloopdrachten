@@ -1,7 +1,10 @@
-count = 1
-while count > 0 :
-    print(count)
-    count = count + 1
-    if count == 1001:
-        break
-print( 'Woooohoooooo')
+def vini(maxvalue):
+    count = 1
+    while count > 0 :
+        print(count)
+        count += 1
+        if count == maxvalue + 1:
+            break
+    print( 'Woooohoooooo')
+
+vini(3000)
