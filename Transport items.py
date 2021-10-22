@@ -40,6 +40,7 @@ while shad == True:
     Shop.clear()
     print(Shop) 
     os.system('clear')
+    
     x = input("Repeat? y/n \n")
     if x == 'n':
         break

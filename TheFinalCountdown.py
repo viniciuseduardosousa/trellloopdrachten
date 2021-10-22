@@ -1,4 +1,5 @@
 def vini(maxvalue):
+    
     count = 1
     while count > 0 :
         print(count)
@@ -7,4 +8,4 @@ def vini(maxvalue):
             break
     print( 'Woooohoooooo')
 
-vini(3000)
+vini(100000)
