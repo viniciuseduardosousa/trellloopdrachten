@@ -14,7 +14,7 @@ while shad == True:
     time.sleep(1)
     Factory.clear()
     print(Factory) 
-    os.system('clear')
+    os.system('cls')
 
 
     Distrubution= []
@@ -26,7 +26,7 @@ while shad == True:
     time.sleep(1)
     Distrubution.clear()
     print(Distrubution) 
-    os.system('clear')
+    os.system('cls')
 
 
 
@@ -39,7 +39,7 @@ while shad == True:
     time.sleep(1)
     Shop.clear()
     print(Shop) 
-    os.system('clear')
+    os.system('cls')
     
     x = input("Repeat? y/n \n")
     if x == 'n':

@@ -1,4 +1,4 @@
-def vini(maxvalue):
+def tellen(maxvalue):
     
     count = 1
     while count > 0 :
@@ -8,4 +8,4 @@ def vini(maxvalue):
             break
     print( 'Woooohoooooo')
 
-vini(100000)
+tellen(100000)
